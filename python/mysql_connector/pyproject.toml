@@ -6,7 +6,7 @@ authors = ["Weizhen Wang <wangweizhen@pingcap.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
-mysql-connector = "^2.2.9"
+mysql-connector-python = "^8.0.26"
 
 [tool.poetry.dev-dependencies]
 
